@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif](https://media2.giphy.com/media/jKUrbjfw8OZ699F2rV/giphy.gif?cid=ecf05e47k7hxftxf887taswblb25ee9aiy2zsbgbadp1jhhg&ep=v1_gifs_search&rid=giphy.gif&ct=g))](https://nurulhelda.io)
+[![MasterHead]([https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif](https://drive.google.com/file/d/1-Yq8-hPhnv50jZdLy_iMZk1zbOAfPRcP/view?usp=sharing))](https://nurulhelda.io)
 
 <h1 align="center">Hi 👋, I'm Nurul Helda</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurulhelda&label=Profile%20views&color=0e75b6&style=flat" alt="nurulhelda" /> </p>
