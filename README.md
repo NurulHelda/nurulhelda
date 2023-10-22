@@ -12,7 +12,3 @@
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulhelda&show_icons=true&locale=en&layout=compact" alt="nurulhelda" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurulhelda&show_icons=true&locale=en" alt="nurulhelda" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulhelda&" alt="nurulhelda" /></p>
