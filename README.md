@@ -1,3 +1,21 @@
+<style>
+  body {
+    background-color: #333;
+    color: #fff;
+  }
+
+  h1, h2, h3, p, a {
+    color: #61dafb; /* Warna teks biru */
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 [![MasterHead](https://miro.medium.com/max/1400/0*x4rQFjfi0iK3gS1T.gif)](https://nurulhelda.io)
 
 <h1 align="center">Hi 👋, I'm Nurul Helda</h1>
