@@ -10,3 +10,4 @@
 - 📫 How to reach me **nurul.helda.tif20@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurulhelda&show_icons=true&locale=en&layout=compact&theme=dark" alt="nurulhelda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurulhelda&" alt="nurulhelda" /></p>
